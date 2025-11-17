@@ -51,7 +51,6 @@ async function criarPost() {
     postsDiv.innerHTML = `<p style="color:red">${erro.message}</p>`;
   }
 }
-
 // ------------------------------------------------------------
 // Função para exibir posts na tela
 // ------------------------------------------------------------
